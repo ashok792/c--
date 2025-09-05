@@ -1,0 +1,34 @@
+What is the capital city of Nepal?
+A) New Delhi
+B) Kathmandu
+C) Pokhara
+D) Biratnagar
+ANSWER: B
+
+Which number is even?
+A) 3
+B) 5
+C) 8
+D) 11
+ANSWER: C
+
+Which language is this program written in?
+A) Python
+B) C++
+C) Java
+D) Go
+ANSWER: B
+
+What is 2 + 2?
+A) 3
+B) 4
+C) 5
+D) 22
+ANSWER: B
+
+Who is known as the "Father of Computers"?
+A) Isaac Newton
+B) Charles Babbage
+C) Albert Einstein
+D) Alan Turing
+ANSWER: B
